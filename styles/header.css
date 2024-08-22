@@ -64,3 +64,13 @@
 .opcoes{
  display: none;
 }
+
+
+@media screen and(min-width: 1024px){
+.container--titulo{
+    display: block;
+}
+    .opcoes{
+   display: block;
+    }
+}
