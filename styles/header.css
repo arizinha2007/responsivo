@@ -71,12 +71,11 @@
     display: block;
 }
     .opcoes{
-   display: block;
+   display: flex;
+   margin: 10px;
     }
     .menu{
         display: none;
     }
-    .container__imagem{
-        width: 600px;
-    }
+    
 }
