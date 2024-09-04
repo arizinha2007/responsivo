@@ -74,6 +74,7 @@
     .opcoes--item{
    display: flex;
    margin: 20px;
+   font-size: 40px;
     }
     .menu{
         display: none;
