@@ -71,7 +71,10 @@
     display: block;
     font-size: 40px;
 }
-    .opcoes--item{
+   .opcoes {
+    display: none;
+   }
+.opcoes--item{
    display: flex;
    font-size: 40px;
     }
